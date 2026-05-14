@@ -1,6 +1,6 @@
 # Random Background Color Changer
 <p align="center">
-  <img src="Background-color-14-5-26.png" alt="Project Preview" width="600">
+  <img src="Background-color-14-5-26.png" alt="Project Preview" width="auto">
 </p>
 A simple and lightweight web application that changes the page's background color to a random hexadecimal value every time a button is clicked.
 
